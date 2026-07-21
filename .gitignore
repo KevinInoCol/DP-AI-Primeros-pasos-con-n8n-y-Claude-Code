@@ -1,0 +1,9 @@
+# Credenciales y configuración sensible — NUNCA subir
+.mcp.json
+.claude/settings.local.json
+
+# Datos confidenciales de clientes
+Hotel - El Descanso - Facebook.json
+
+# Sistema
+.DS_Store
